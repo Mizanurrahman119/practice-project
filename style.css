@@ -1,0 +1,97 @@
+.about{
+    width: 15%;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: hotpink;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: relative;
+    
+}
+.technology{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.download{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.notice{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.gallary{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.about:hover{
+    color: navy;
+    background: red;
+
+}
+.technology:hover{
+    color: navy;
+    background: red;
+
+}
+.download:hover{
+    color: navy;
+    background: red;
+
+}
+.notice:hover{
+    color: navy;
+    background: red;
+
+}
+.gallary:hover{
+    color: navy;
+    background: red;
+}
+.image{
+    display:inline-flex;
+}  
+.image img{
+    width: 100%;
+    height: 100%;
+    margin-top: 2%;
+}  
+.kpi-image{
+    width: 600px;
+    height: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    box-shadow: 5px 10px 5px 10px rgb(158, 154, 153) ;
+}
+.principle{
+    width: 200px;
+    height: 200px;
+    margin-left: 3%;
+    margin-top: 2%;
+    box-shadow: 5px 10px 5px 10px rgb(194, 191, 190) ;
+   
+}
+.mujib{
+    height:300px;
+    width: 300px;
+    margin-left: 5%;
+    margin-top: 2%;
+    box-shadow: 5px 10px 5px 10px rgb(155, 151, 150) ;
+}
